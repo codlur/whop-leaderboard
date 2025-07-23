@@ -106,6 +106,15 @@ export default function Page() {
 					</p>
 				</div>
 			</div>
+
+			<div className="mt-8 text-center">
+				<a
+					href="/leaderboard"
+					className="inline-block px-6 py-3 bg-accent-9 text-white rounded-lg shadow hover:bg-accent-10 transition-colors font-semibold text-lg"
+				>
+					See Leaderboard
+				</a>
+			</div>
 		</div>
 	);
 }
