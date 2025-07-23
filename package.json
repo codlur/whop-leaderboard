@@ -31,7 +31,7 @@
 		"@types/react-dom": "^19",
 		"@whop-apps/dev-proxy": "0.0.1-canary.116",
 		"dotenv-cli": "^8.0.0",
-		"drizzle-kit": "0.20.0-e44f3ff",
+		"drizzle-kit": "0.20.1-56e7be6",
 		"tailwindcss": "^4",
 		"typescript": "^5"
 	},

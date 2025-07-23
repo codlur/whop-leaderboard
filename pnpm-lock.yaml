@@ -70,8 +70,8 @@ importers:
         specifier: ^8.0.0
         version: 8.0.0
       drizzle-kit:
-        specifier: 0.20.0-e44f3ff
-        version: 0.20.0-e44f3ff
+        specifier: 0.20.1-56e7be6
+        version: 0.20.1-56e7be6
       tailwindcss:
         specifier: ^4
         version: 4.1.6
@@ -2385,8 +2385,8 @@ packages:
     resolution: {integrity: sha512-vyJTp8+mC+G+5dfgsY+r3ckxlz+QMX40VjPQsZc5gxVAxLmi64TBoVkP54A/pRAXMXsbu2GMMBrZPxNv23waMg==}
     engines: {node: '>=0.4.0'}
 
-  drizzle-kit@0.20.0-e44f3ff:
-    resolution: {integrity: sha512-dD7tWlHi8TAEfYgPuNUXCKNEtU23gHgq2xxx6ZP+I4S7vLQFlHOkv8urTnjcusf8gzfjn5MPA6Pohgce6jXgmg==}
+  drizzle-kit@0.20.1-56e7be6:
+    resolution: {integrity: sha512-qsejUyPNIO4KsS76h+uwQ/VL03dlyz+kB9n3a33NiAfM8W63QHM2EdemcNh6SG5c9xmjUy6RpFE0rnJoixv41A==}
     hasBin: true
 
   drizzle-orm@0.44.3:
@@ -5710,7 +5710,7 @@ snapshots:
     dependencies:
       wordwrap: 1.0.0
 
-  drizzle-kit@0.20.0-e44f3ff:
+  drizzle-kit@0.20.1-56e7be6:
     dependencies:
       '@drizzle-team/studio': 0.0.27
       '@esbuild-kit/esm-loader': 2.6.5
